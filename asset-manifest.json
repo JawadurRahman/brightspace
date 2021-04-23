@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/brightspace/static/css/main.422ee9ac.chunk.css",
+    "main.js": "/brightspace/static/js/main.22430260.chunk.js",
+    "main.js.map": "/brightspace/static/js/main.22430260.chunk.js.map",
+    "runtime-main.js": "/brightspace/static/js/runtime-main.8e80956e.js",
+    "runtime-main.js.map": "/brightspace/static/js/runtime-main.8e80956e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/brightspace/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.25341cd2.chunk.js": "/brightspace/static/js/2.25341cd2.chunk.js",
+    "static/js/2.25341cd2.chunk.js.map": "/brightspace/static/js/2.25341cd2.chunk.js.map",
+    "static/js/3.30a760a0.chunk.js": "/brightspace/static/js/3.30a760a0.chunk.js",
+    "static/js/3.30a760a0.chunk.js.map": "/brightspace/static/js/3.30a760a0.chunk.js.map",
+    "index.html": "/brightspace/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/brightspace/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.422ee9ac.chunk.css.map": "/brightspace/static/css/main.422ee9ac.chunk.css.map",
+    "static/js/2.25341cd2.chunk.js.LICENSE.txt": "/brightspace/static/js/2.25341cd2.chunk.js.LICENSE.txt",
+    "static/media/SMU2colPMS_1.8d97af26.jpg": "/brightspace/static/media/SMU2colPMS_1.8d97af26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e80956e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.25341cd2.chunk.js",
+    "static/css/main.422ee9ac.chunk.css",
+    "static/js/main.22430260.chunk.js"
+  ]
+}
