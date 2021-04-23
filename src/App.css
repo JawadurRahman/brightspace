@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+nav {
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-top-color: black;
+  box-shadow: 0 3px 2.5px 0 rgba(228, 228, 228, 0.4);
+}
+
+.logo {
+  padding-top: 7px;
+  padding-left: 74px;
+  padding-bottom: 7px;
+}
